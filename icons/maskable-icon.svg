@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="WPL maskable icon">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f6848"/>
+      <stop offset="100%" stop-color="#19d68c"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="#0b1f16"/>
+  <rect x="32" y="32" width="448" height="448" rx="88" fill="url(#g)"/>
+  <text x="50%" y="58%" text-anchor="middle" fill="#f8fff4" font-family="Inter, system-ui, sans-serif" font-size="176" font-weight="800">WPL</text>
+</svg>
