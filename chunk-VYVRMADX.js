@@ -1,0 +1,1 @@
+var e="wpl:leagueId",t=()=>typeof window<"u"&&!!window.localStorage;function n(){return t()?window.localStorage.getItem(e):null}function r(o){t()&&window.localStorage.setItem(e,o)}function d(){t()&&window.localStorage.removeItem(e)}export{n as a,r as b,d as c};
